@@ -1,3 +1,17 @@
+.DS_Store
+
+# Vscode
+.vscode
+
+# Python
+.python-version
+
+# Directories
+build/
+cmake-build-debug/
+.idea/
+test/
+
 # Prerequisites
 *.d
 
