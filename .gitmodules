@@ -1,0 +1,3 @@
+[submodule "cib-logging/extern/compile-time-init-build"]
+	path = cib-logging/extern/compile-time-init-build
+	url = git@github.com:intel/compile-time-init-build.git
